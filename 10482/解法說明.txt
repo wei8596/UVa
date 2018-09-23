@@ -1,0 +1,3 @@
+ノdynamic programming碝т┮Τだ猭
+dp[j][k]ボだ倒a秖j倒b秖kc玥琌sum-j-k
+ぇ眖硂ㄇだ猭いт程ㄎだ猭(程秖籔程秖畉钵程)畉

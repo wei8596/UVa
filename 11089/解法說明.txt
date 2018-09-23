@@ -1,0 +1,12 @@
+Fi-binary number只有0和1，不會有0開頭，且沒有連續的兩個1。
+Fi-binary number為Fibonacci進制:
+                  5 3 2 1
+           1            1
+           2          1 0
+           3        1 0 0
+           4        1 0 1
+           5      1 0 0 0
+           6      1 0 0 1
+           7      1 0 1 0
+從小於或等於n的Fibonacci number開始算，若f[i] <= n，則印1，表示有，並減去f[i]，繼續往下到f[0]；
+若f[i] > n，則印0，表示沒有。

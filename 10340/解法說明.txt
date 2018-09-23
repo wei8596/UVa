@@ -1,0 +1,3 @@
+﻿題目說以EOF終止輸入，可將cin當作迴圈的條件式，若沒有輸入則會跳出迴圈。
+要決定s是否為t的subsequence，可以從s與t的頭一個一個對看是否相同，不相同就繼續往下對，直到s或t全部對完。
+若最後s對完了，表示s是t的subsequence；若s沒對完，表示s不是t的subsequence。

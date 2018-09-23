@@ -1,0 +1,2 @@
+利用class儲存node的資料，包括node id、learning units及edge。
+從node0開始，比較有連線的node的值，前往值較大的node，走到不能走為止，過程統計total learning units，並記下最後停留的位置。

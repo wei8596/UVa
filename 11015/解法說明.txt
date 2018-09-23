@@ -1,0 +1,2 @@
+此題為All pairs shortest path problem，可用dynamic programming方法。
+將各點間的距離記錄下來，之後計算所有點到目的地的總距離，最後將總距離最短的位置印出。

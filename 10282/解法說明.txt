@@ -1,0 +1,5 @@
+此題要建立一個字典，可以用C++的map來實現。
+可以用stringstream將讀到的一行轉換成2個字串(English word, foreign language word)，
+並將key(foreign language word)和value(English word)放入map中。
+最後輸入訊息，利用map的find()函式在map中尋找，若有找到，印出對應的value；
+若沒有找到，則印出‘eh’。
